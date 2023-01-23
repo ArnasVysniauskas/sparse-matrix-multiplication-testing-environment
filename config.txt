@@ -1,0 +1,14 @@
+testing=0
+testing_quadrant_size=100
+sparsity_start=0.82
+sparsity_end=0.86
+sparsity_step=0.005
+dimension_start=5000
+dimension_end=7001
+dimension_step=500
+naive_algorithm=0
+gustavson_algorithm=1
+dgemm_algorithm=1
+hypersparse_gemm_algorithm_1=0
+result_id=9
+repeats=2

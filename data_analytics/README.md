@@ -1,0 +1,1 @@
+ENV path: /Users/arnasvysniauskas/Library/Caches/pypoetry/virtualenvs/data-analytics-YU7LSVsl-py3.10
